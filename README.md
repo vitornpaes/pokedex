@@ -23,6 +23,8 @@ A Pokédex foi inspirada nos projetos de <a href="https://codepen.io/daniel-snow
 
 ## 🔥 Prévia da Aplicação
 
+[Clique aqui para utilizar a Pokédex - Publicado na Vercel](https://pokedex-tau-nine.vercel.app/)
+
 <div align="center"> 
 <img src="https://www.imagemhost.com.br/images/2022/08/12/Captura-de-Tela-2022-08-12-as-12.47.04.png" alt="preview"/>
 </div>
